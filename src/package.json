@@ -1,0 +1,20 @@
+{
+  "name": "@soulbound/contracts",
+  "version": "1.0.0",
+  "description": "Soulbound 👻 Token Smart Contracts.",
+  "homepage": "https://evm.la",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evmla/contracts.git"
+  },
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "smart",
+    "contracts",
+    "soulbound",
+    "token",
+    "sbt"
+  ],
+  "license": "MIT"
+}
