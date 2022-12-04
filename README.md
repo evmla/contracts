@@ -1,4 +1,4 @@
-# evm.la - Soulbound 👻 Token
+# evm.la - Emoji 👻 Wallet
 
 ## Test
 

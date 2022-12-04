@@ -1,1 +1,2 @@
 @soulbound/contracts=src/
+@openzeppelin=lib/openzeppelin-contracts/
